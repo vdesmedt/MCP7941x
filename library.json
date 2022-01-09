@@ -1,0 +1,24 @@
+{
+    "name": "MCP7941x",
+    "version": "0.1.0",
+    "description": "A library to use the Microchip Realtime Clock from the 7941x serie (MCP79410, MCP79411 & MCP79412).",
+    "keywords": "rtc",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/vdesmedt/MCP7941x.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Valery De Smedt",
+        "email": "valery@indri.be",
+        "url": "https://www.vdesmedt.com"
+      }
+    ],
+    "license": "MIT",
+    "dependencies": {
+    },
+    "frameworks": "arduino",
+    "platforms": "atmelavr"
+  }
